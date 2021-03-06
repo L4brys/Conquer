@@ -1,5 +1,5 @@
 # Conquer
-Files from the board Conquer: Control it all I designed back in FEB-MAR 2020
+Files from the board "Conquer: Control It All" I designed back in FEB-MAR 2020
 
 
 Upload Dates Are Not Accurate
